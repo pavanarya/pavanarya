@@ -1,5 +1,6 @@
 ```
 Pavan Kumar Aryasomayajulu
+pavan.aryasomayajulu@gmail.com
 Jan 21, 1989
 Visakhapatnam , India
 +91 9030401024
