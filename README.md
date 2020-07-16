@@ -5,8 +5,8 @@ Visakhapatnam , India
 xyzcoder1989@gmail.com
 pavan.aryasomayajulu@gmail.com
 +91 9030401024
-xyzcoder.github.io
-https://stackoverflow.com/users/1415739/pavan-kumar-aryasomayajulu
+[xyzcoder.github.io](#https://xyzcoder.github.io/)
+[https://stackoverflow.com/users/1415739/pavan-kumar-aryasomayajulu](#https://stackoverflow.com/users/1415739/pavan-kumar-aryasomayajulu)
 ```
 
  I am a passionate programmer with good experience in building various application both enterprise level and small scale. I
