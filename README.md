@@ -110,12 +110,8 @@ Software Architect
 ```
 ```
 Sails Software Solutions
-Designing, planning and developing are integral tasks in my
-daily routine. I started evaluating various technologies and
-decide on which one to go with. Implemented POC on
-challenging tasks and making sure that they get integrated
-smoothly in the product. As a stratup we developed a product
-called Mycareer.com which was completely built using open
+Designing, planning and developing are integral tasks in my daily routine. I started evaluating various technologies and decide on which one to go with. Implemented POC on
+challenging tasks and making sure that they get integrated smoothly in the product. As a stratup we developed a product called Mycareer.com which was completely built using open
 source technologies
 ```
 ```
@@ -123,12 +119,7 @@ Senior Software Engineer
 ```
 ```
 IBM
-As a developer at Kenexa(IBM), I worked in various areas like
-Application development, Application maintenance, Migration
-of code from VB.Net to C#, Implementing client requirements
-after analyzing them. Worked on enhancements and also
-implementing new features in IBM smarter workforce products
-like Kenexa Recruitment Brassring
+As a developer at Kenexa(IBM), I worked in various areas like Application development, Application maintenance, Migration of code from VB.Net to C#, Implementing client requirements after analyzing them. Worked on enhancements and also implementing new features in IBM smarter workforce products like Kenexa Recruitment Brassring
 ```
 # EDUCATION
 
