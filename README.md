@@ -2,12 +2,11 @@
 Pavan Kumar Aryasomayajulu
 Jan 21, 1989
 Visakhapatnam , India
-xyzcoder1989@gmail.com
-pavan.aryasomayajulu@gmail.com
 +91 9030401024
-[xyzcoder.github.io](#https://xyzcoder.github.io/)
-[https://stackoverflow.com/users/1415739/pavan-kumar-aryasomayajulu](#https://stackoverflow.com/users/1415739/pavan-kumar-aryasomayajulu)
 ```
+Blog: [xyzcoder.github.io](https://xyzcoder.github.io/)
+
+Stackoverflow Profile: [https://stackoverflow.com/users/1415739/pavan-kumar-aryasomayajulu](https://stackoverflow.com/users/1415739/pavan-kumar-aryasomayajulu)
 
  I am a passionate programmer with good experience in building various application both enterprise level and small scale. I
 mainly work on Microsoft Technologies but never confined to them. I also work on various open source technologies like Node.js,
